@@ -1,5 +1,7 @@
-## Hi there 👋
-## A passionate Coder at your service💻
+<div align="center">
+  ## Hi there 👋
+  ## A passionate Coder at your service💻
+</div>
 <!--
 **Hussein-Kobeisi/Hussein-Kobeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
