@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Hi there 👋 </h1>
-  <h1> A passionate Coder at your service💻 </h1>
+  <h1> Hi there 👋
+  <br> A passionate Coder at your service💻 </h1>
 </div>
 <!--
 **Hussein-Kobeisi/Hussein-Kobeisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
