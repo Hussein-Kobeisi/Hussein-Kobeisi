@@ -1,9 +1,9 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hsen  
-
 ![alt text](https://github.com/Hussein-Kobeisi/Hussein-Kobeisi/blob/main/github-header-image.png)
 
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=small&duration=2000&pause=1000&color=50DCF7&background=9E7BA700&width=435&lines=%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93)](https://git.io/typing-svg)
+
 ```javascript
 const Hussein_Kob = new Dev(
   occupation: 'Software Engineer'
