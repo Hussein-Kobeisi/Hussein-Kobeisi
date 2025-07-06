@@ -1,7 +1,4 @@
-![alt text](https://github.com/Hussein-Kobeisi/Hussein-Kobeisi/blob/main/github-header-image.png)
 
-
----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=small&duration=2000&pause=1000&color=50DCF7&background=9E7BA700&width=435&lines=%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93++%E2%86%93)](https://git.io/typing-svg)
 
 ```javascript
@@ -15,7 +12,10 @@ const Hussein_Kob = new Dev(
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=small&duration=2000&pause=1000&color=50DCF7&background=9E7BA700&width=435&lines=%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91++%E2%86%91)](https://git.io/typing-svg)
 ---
+![alt text](https://github.com/Hussein-Kobeisi/Hussein-Kobeisi/blob/main/github-header-image.png)
 
+
+---
 ### 🧰 Skills
 
 <p align="left">
@@ -30,31 +30,6 @@ const Hussein_Kob = new Dev(
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
   <a href="https://arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" title="Arduino"/></a>
 </p>
-
----
-
-### 🚀 Projects I'm Working On
-
-- 🔧 **Smart Home Controller**  
-  Arduino-based IoT system with Python control scripts and web UI. *(In progress)*
-
-- 🧠 **AI Agent Playground**  
-  Experiments with OpenAI Gym environments and TensorFlow-based models. *(Experimental)*
-
-- 🎮 **Unity Game Prototype**  
-  Simple 2D platformer game made with C# and Unity Engine. *(Work in progress)*
-
-<details>
-<summary>⚙️ More Experimental Projects</summary>
-
-- 🧪 Reinforcement learning agent using TensorFlow and Gym  
-- 🤖 Simple chatbot built with Python and basic NLP
-
-</details>
-
----
-
-> "Insert your favorite quote here — a little inspiration goes a long way."
 
 ---
 
