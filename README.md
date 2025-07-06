@@ -46,7 +46,7 @@ I enjoy drawing, animation, reading, gaming, and hitting the gym — keeping a b
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dummy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussein-kobeisi/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein_Kobeisi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussein-kobeisi/)  
 
 ---
 
