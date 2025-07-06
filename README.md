@@ -5,27 +5,13 @@
 
 ---
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const Hussein_Kob = new Dev(
+  location: Lebanon
+  email: husseinakobeisi@gmail.com //yes the 'a' is not a mistake
+  hobbies:
+    [drawing, animation, reading, gaming, gym]
+)
 ```
-
----
-### 🌍 About Me
-
-- Based in Lebanon (you can edit location)  
-- Passionate about web development, AI, game dev, and electronics  
-- Always learning and experimenting with new technologies  
-
 ---
 
 ### 🧰 Skills
@@ -63,12 +49,6 @@ const thai = {
 - 🤖 Simple chatbot built with Python and basic NLP
 
 </details>
-
----
-
-### 🎮 Beyond Code
-
-I love drawing, animation, reading, gaming, and hitting the gym — balancing creativity and fitness.
 
 ---
 
