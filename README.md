@@ -1,19 +1,36 @@
-# Hi there, I'm Hussein 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hsen  
+==========================================================================
 
-### 🚀 Software Engineer & Web Developer | Actively seeking new opportunities
-
----
-
-### 🧰 Technical Skills
-
-- **Languages:** JavaScript, PHP, SQL, HTML, CSS, C#, Python  
-- **Frameworks / Libraries:** TensorFlow, OpenAI Gym  
-- **Tools & Platforms:** Unity Engine, Arduino, Google Colab, Jupyter Notebook  
-- **Web Dev Stack:** Frontend (HTML, CSS, JS), Backend (PHP, SQL)  
+### Software Engineer & Web Developer | Actively seeking new opportunities
 
 ---
 
-### 🛠️ Projects I'm Working On
+### 🌍 About Me
+
+- Based in Lebanon (you can edit location)  
+- Passionate about web development, AI, game dev, and electronics  
+- Always learning and experimenting with new technologies  
+
+---
+
+### 🧰 Skills
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36" alt="Unity" title="Unity"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+  <a href="https://arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" title="Arduino"/></a>
+</p>
+
+---
+
+### 🚀 Projects I'm Working On
 
 - 🔧 **Smart Home Controller**  
   Arduino-based IoT system with Python control scripts and web UI. *(In progress)*
@@ -36,24 +53,35 @@
 
 ### 🎮 Beyond Code
 
-I enjoy drawing, animation, reading, gaming, and hitting the gym — keeping a balance between mind and body.
+I love drawing, animation, reading, gaming, and hitting the gym — balancing creativity and fitness.
 
 ---
 
-> "Insert your favorite quote here — a little inspiration goes a long way."  
+> "Insert your favorite quote here — a little inspiration goes a long way."
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein_Kobeisi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussein-kobeisi/)  
+<p align="left">
+  <a href="https://github.com/dummy" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/dummy" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dummy" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter"/>
+  </a>
+  <a href="https://youtube.com/dummy" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-Kobeisi&show_icons=true&theme=radical)
-
----
-
-Thanks for stopping by — let's build something great together! 🚀
+<a href="https://github.com/dummy"><img src="https://github-readme-stats.vercel.app/api?username=dummy&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
+<a href="https://github.com/dummy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dummy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/dummy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
