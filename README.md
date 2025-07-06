@@ -1,4 +1,4 @@
-# Hi there, I'm Hsen 👋
+# Hi there, I'm Hussein 👋
 
 ### 🚀 Software Engineer & Web Developer | Actively seeking new opportunities
 
@@ -46,16 +46,13 @@ I enjoy drawing, animation, reading, gaming, and hitting the gym — keeping a b
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dummy-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dummy)  
-[![Twitter](https://img.shields.io/badge/Twitter-dummy-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dummy)  
-[![YouTube](https://img.shields.io/badge/YouTube-dummy-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/dummy)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-dummy-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/dummy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dummy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussein-kobeisi/)  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Hsen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-Kobeisi&show_icons=true&theme=radical)
 
 ---
 
