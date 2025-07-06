@@ -1,15 +1,13 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hsen  
 ==========================================================================
 
-### Software Engineer & Web Developer | Actively seeking new opportunities
-
 ---
 ```javascript
 const Hussein_Kob = new Dev(
-  location: Lebanon
-  email: husseinakobeisi@gmail.com //yes the 'a' is not a mistake
-  hobbies:
-    [drawing, animation, reading, gaming, gym]
+  occupation: 'Software Engineer'
+  location: 'Lebanon'
+  email: 'husseinakobeisi@gmail.com' //yes the 'a' is not a mistake
+  hobbies: [drawing, animation, reading, gaming, gym]
 )
 ```
 ---
